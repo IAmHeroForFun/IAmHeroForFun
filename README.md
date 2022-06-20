@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hi! wave I'm Hero 
 
+### I'm a Future Web Developer.
 ### I'm Learning Python and It's django framework. Learning HTML/CSS in future I will be learning JavaScript.
+
+
+## Let's connect on
+[![](https://twitter.com/IAmHeroForFun)](https://twitter.com/IAmHeroForFun)
 
 ### Up to listen any adivce or willing to take any kind of help.
 
