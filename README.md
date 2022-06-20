@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-###I'm Learning Python and It's django framework. Learning HTML/CSS in future I will be learning JavaScript.
+### I'm Learning Python and It's django framework. Learning HTML/CSS in future I will be learning JavaScript.
 
-###Up to listen any adivce or willing to take any kind of help.
+### Up to listen any adivce or willing to take any kind of help.
 
-###HE/HIM
+### HE/HIM
 
-###IAmHeroForFun
+### IAmHeroForFun
 <!--
 **IAmHeroForFun/IAmHeroForFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
