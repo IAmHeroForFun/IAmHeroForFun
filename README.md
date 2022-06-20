@@ -12,9 +12,7 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"> 
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
- 
-  </p>
-  ### IAmHeroForFun
+</p>
 <!--
 **IAmHeroForFun/IAmHeroForFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
