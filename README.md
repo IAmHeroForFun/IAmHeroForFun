@@ -6,9 +6,9 @@
 
 ## Let's connect on
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/IAmHeroForFun)
-<a href="https://twitter.com/IAmHeroForFun"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="IAmHeroForFun" width="40"/></a>
 
-
+## SKILLS
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"> 
 ### IAmHeroForFun
 <!--
 **IAmHeroForFun/IAmHeroForFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
