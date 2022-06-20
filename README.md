@@ -5,7 +5,7 @@
 
 
 ## Let's connect on
-[![Twitter](https://img.shields.io/badge/twitter----blue)](https://twitter.com/IAmHeroForFun)
+[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/IAmHeroForFun)
 <a href="https://twitter.com/IAmHeroForFun"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="IAmHeroForFun" width="40"/></a>
 
 
