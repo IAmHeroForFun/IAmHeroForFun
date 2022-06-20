@@ -5,7 +5,8 @@
 
 
 ## Let's connect on
-![Twitter Follow](https://img.shields.io/twitter/follow/IAmHeroForFun?style=social)
+[![Twitter](https://img.shields.io/badge/twitter----blue)](https://twitter.com/IAmHeroForFun)
+
 
 ### Up to listen any adivce or willing to take any kind of help.
 
