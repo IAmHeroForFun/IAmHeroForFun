@@ -5,7 +5,7 @@
 
 
 ## Let's connect on
-[![]([https://twitter.com/IAmHeroForFun)](https://twitter.com/IAmHeroForFun](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FIAmHeroForFun))
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FIAmHeroForFun)
 
 ### Up to listen any adivce or willing to take any kind of help.
 
