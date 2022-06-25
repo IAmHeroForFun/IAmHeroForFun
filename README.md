@@ -1,4 +1,4 @@
-# Hi! wave I'm Hero 
+# Hi! I'm Hero 
 
 ### I'm a Future Web Developer.
 ### I'm Learning Python and It's django framework. Learning HTML/CSS in future I will be learning JavaScript.
