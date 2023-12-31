@@ -1,15 +1,38 @@
 <h1 align="center">Hi 👋, I'm Hero/Vijay</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+<b>Gender:</b> Make </li>
+<li>
+<b>Hobby:</b>Tech stuffs, Web Development, Art(even though i can not make it.) </li>
+
+
 <p align="left"> <a href="https://twitter.com/iamheroforfun" target="blank"><img src="https://img.shields.io/twitter/follow/iamheroforfun?logo=twitter&style=for-the-badge" alt="iamheroforfun" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Django, Server, Windows, Linux, PostgreSql,Etc.**
+- 🌱 I’m currently learning **Python, Web development, Etc.**
 
 - 💬 Ask me about **Technology.**
+
+- 👨 Working as IT Support or sysadmin(I think so), cannot disclose because it's not so fun currently.
 
 - 📫 How to reach me **iamheroforfun@gmail.com**
 
 - ⚡ Fun fact **I am supa COOL.**
+
+- a lot more ;)
+
+## Skills
+- 💻 Windows, Windows server, Linux, Python, Help-desk, etc...
+- ⚙️D Django, Django REST API, bootstrap 
+- 👁️ HTML, CSS 
+- 💽 PostgreSql 
++ a lot more :D 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
