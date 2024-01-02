@@ -10,9 +10,6 @@
 <li>
 <b>Hobby:</b>Tech stuffs, Web Development, Art(even though i can not make it.) </li>
 
-
-<p align="left"> <a href="https://twitter.com/iamheroforfun" target="blank"><img src="https://img.shields.io/twitter/follow/iamheroforfun?logo=twitter&style=for-the-badge" alt="iamheroforfun" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Web development, Etc.**
 
 - 💬 Ask me about **Technology.**
