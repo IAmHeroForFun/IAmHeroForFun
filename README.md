@@ -24,10 +24,10 @@
 
 ## Skills
 - 💻 Windows, Windows server, Linux, Python, Help-desk, etc...
-- ⚙️D Django, Django REST API, bootstrap.
+- ⚙️D Django REST API, bootstrap.
 - 👁️ HTML, CSS.
 - 💽 PostgreSql.
-+ a lot more :D
+- + a lot more :D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
