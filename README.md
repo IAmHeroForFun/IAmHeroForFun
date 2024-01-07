@@ -14,11 +14,11 @@
 
 - 💬 Ask me about **Technology.**
 
-- 👨 Working as IT Support or sysadmin(I think so), cannot disclose.
+- 👨 Not Working.
 
 - 📫 How to reach me **iamheroforfun@gmail.com**
 
-- ⚡ Fun fact **I am supa COOL.**
+- ⚡ Fun fact **I am SUPA COOL.**
 
 - a lot more ;)
 
