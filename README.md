@@ -5,6 +5,8 @@
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
   </div>
+
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 <li>
 <b>Gender:</b> Male </li>
 <li>
@@ -28,6 +30,18 @@
 - 👁️ HTML, CSS.
 - 💽 PostgreSql, MongoDB.
 - + a lot more :D
+
+## What I'm up tp.
+- I'm currently ...
+``` Python
+  - Making Personal Blog app with Django web framework.
+  - STALKING.
+```
+## 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- Be HAPPY...
+- Contribute to some amazing projects.
+- HAVE FUN IN LIFE...
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
