@@ -6,9 +6,9 @@
   <div align="center">
   </div>
 <li>
-<b>Gender:</b> Make </li>
+<b>Gender:</b> Male </li>
 <li>
-<b>Hobby:</b>Tech stuffs, Web Development, Art(even though i can not make it.) </li>
+<b>Hobby:</b>Tech stuffs, Web Development, Art(even though i can not make it). </li>
 
 - 🌱 I’m currently learning **Python, Web development, Etc.**
 
@@ -24,9 +24,9 @@
 
 ## Skills
 - 💻 Windows, Windows server, Linux, Python, Help-desk, etc...
-- ⚙️D Django REST API, bootstrap.
+- ⚙️ Djangp, Django-REST-API, Bootstrap.
 - 👁️ HTML, CSS.
-- 💽 PostgreSql.
+- 💽 PostgreSql, MongoDB.
 - + a lot more :D
 
 <h3 align="left">Connect with me:</h3>
