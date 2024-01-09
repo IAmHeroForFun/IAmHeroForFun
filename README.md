@@ -10,21 +10,21 @@
 <li>
 <b>Hobby:</b>Tech stuffs, Web Development, Art(even though i can not make it). </li>
 
-- 🌱 I’m currently learning **Python, Web development, Etc.**
+- 🌱 I’m currently learning to **CODE**.
 
-- 💬 Ask me about **Technology.**
+- 💬 Ask me about **Technology**.
 
 - 👨 Not Working.
 
 - 📫 How to reach me **iamheroforfun@gmail.com**
 
-- ⚡ Fun fact **I am SUPA COOL.**
+- ⚡ Fun fact **I am SUPA COOL**.
 
 - a lot more ;)
 
 ## Skills
 - 💻 Windows, Windows server, Linux, Python, Help-desk, etc...
-- ⚙️ Djangp, Django-REST-API, Bootstrap.
+- ⚙️ Django, Django-REST-API, Bootstrap.
 - 👁️ HTML, CSS.
 - 💽 PostgreSql, MongoDB.
 - + a lot more :D
