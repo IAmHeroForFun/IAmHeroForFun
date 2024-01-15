@@ -1,56 +1,30 @@
-<h1 align="center">Hi 👋, I'm Hero/Vijay</h1>
-<h3 align="center">A passionate Tech Enthusiast from India</h3>
+## Hello there! I'm Vijay, or hero(just simple online name)👋
 
-<div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-  </div>
-<li>
-<b>Gender:</b> Male </li>
-<li>
-<b>Hobby:</b>Tech stuffs, Web Development, Art(even though i can not make it). </li>
+### ABOUT ME:
+- Just a guy who's learning and which will never stop.
+- Currently, I know Python Language, Django Framework, DRF (Django Rest Framework), HTML, CSS, BOOTSTRAPS, Sql, PostgreSql, MongoDB. Which will be improving as day goes.
 
-- 🌱 I’m currently learning to **CODE**.
+### What I'm up to: 
+- I am working on building Blog site, where i can have fun with you all.
+- Since i am still on back-end part only, eventually I will be learning Dart & flutter. Probably after my blog site is up because by then i will be having enough knowledge to handle more.
+- I will and want to contribute to open-source projects eventually.
+ 
+### Tools i use:
+- VSCode, NeoVim (Hope you know what's that).
+- Windows by Day and Linux By night, Don't worry "I USE ARCH BTW".
 
-- 💬 Ask me about **Technology**.
+#### A Tech-Suppot by day ☼ and a Self-learner by night ☾
 
-- 👨 Not Working.
+Back-end self taught Developer.
 
-- 📫 How to reach me **iamheroforfun@gmail.com**
+- ⚙️ I use daily: `.py`, `.html`, `.css`, `.svg`, `.img`.
+- 🌍 I'm mostly active within the **Email & X**
+- 💬 `ping` me about **development**, **for support**, **For ideas**.
 
-- ⚡ Fun fact **I am SUPA COOL**.
-  
--  𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+#### How to reach me:
+- iamheroforfun@gmail.com 
 
-- a lot more ;)
-
-## Skills
-- 💻 Windows, Windows server, Linux, Python, Help-desk, etc...
-- ⚙️ Django, Django-REST-API, Bootstrap.
-- 👁️ HTML, CSS.
-- 💽 PostgreSql, MongoDB.
-- + a lot more :D
-
-## What I'm up tp.
-- I'm currently ...
-``` Python
-  - Making Personal Blog app with Django web framework.
-  - STALKING.
-```
-## 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-- Be HAPPY...
-- Contribute to some amazing projects.
-- HAVE FUN IN LIFE...
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamheroforfun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamheroforfun" height="30" width="40" /></a>
-<a href="https://instagram.com/iamheroforfun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamheroforfun" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40em" align="center" alt="Follow Hero on Twitter" title="Follow Hero on Twitter"/>](https://twitter.com/IAmHeroForFun)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamheroforfun&show_icons=true&locale=en" alt="iamheroforfun" /></p>
 
