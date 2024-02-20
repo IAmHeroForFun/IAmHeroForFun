@@ -10,7 +10,7 @@
 - I will and want to contribute to open-source projects eventually.
  
 ### Tools i use:
-- VSCode, NeoVim (Hope you know what's that).
+- Codium
 - Windows by Day and Linux By night, Don't worry "I USE ARCH BTW".
 
 #### A Tech-Suppot by day ☼ and a Self-learner by night ☾
