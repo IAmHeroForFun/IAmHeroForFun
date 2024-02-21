@@ -11,7 +11,7 @@
  
 ### Tools i use:
 - Codium
-- Windows by Day and Linux By night, Don't worry "I USE ARCH BTW".
+- Windows by Day and Linux By night.
 
 #### A Tech-Suppot by day ☼ and a Self-learner by night ☾
 
