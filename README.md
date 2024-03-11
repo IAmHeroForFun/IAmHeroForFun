@@ -1,5 +1,5 @@
 ## Hello there! I'm Vijay, or hero(just simple online name)👋
-THINGS ARE MESSY
+
 ### ABOUT ME:
 - Just a guy who's learning and which will never stop.
 - Currently, I know Python Language, Django Framework, DRF (Django Rest Framework), HTML, CSS, BOOTSTRAPS, Sql, PostgreSql, MongoDB. Which will be improving as day goes.
